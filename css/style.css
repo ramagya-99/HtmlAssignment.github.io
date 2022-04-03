@@ -1,0 +1,72 @@
+.head_name{
+    margin-left: 34%;
+}
+
+h2{
+    text-align: center;
+}
+
+.note{
+    margin-left: 15%;
+}
+
+#note{
+    margin-top: -1.1%;
+}
+
+tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.first_table{
+    width: 60%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.last {
+    width: 77%;
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+table.personal{
+    border: none;
+}
+
+.row {
+    border: 1px solid black;
+}
+
+.heading {
+    text-align: center;
+}
+
+.picture {
+    margin-left: 64%; 
+    margin-top: -23.8%; 
+    border: 1px solid black; 
+    margin-right: 23%;
+    text-align: center;
+}
+
+
+
+.head {
+    width: 77%;
+    margin-top: 12%;
+    background: rgb(202, 116, 3);
+
+
+}
+
+.custo_name {
+    margin-left: 40%;
+    margin-top: -15%;
+}
+
+.wao{
+    margin-left: 110%;
+}
